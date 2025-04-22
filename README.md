@@ -13,9 +13,7 @@
 	
 👨‍💻 AI Engineer CargoAI
 	
-💸 Help 80+ Clients via Generative AI & Automation
-
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
+💸 Help  Student via Generative AI & Automation
  
 <h2>Tech Stack</h2>
 
